@@ -17,6 +17,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		
 		//Obtenemos la Referencia a los controles
+		//Modificacion para probar en GitHub
 		final EditText txtNombre = (EditText)findViewById(R.id.TxtNombre);
 		final Button btnHola = (Button)findViewById(R.id.BtnHola);
 		
