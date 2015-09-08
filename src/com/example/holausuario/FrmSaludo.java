@@ -22,7 +22,7 @@ public class FrmSaludo extends Activity {
     	//Construimos el mensaje a mostrar
     	final String nombre = bundle.getString("NOMBRE");
     	
-        txtSaludo.setText("Hola " + nombre + ", Bienvenido!!!");
+        txtSaludo.setText("Hola " + nombre + ", Bienvenido!");
 	
 	}
 	
