@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hola Usuario</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hola">Hola USuario</string>
+    <string name="nombre">Ponga su Nombre</string>
+    <string name="title_activity_saludo">2da Pantalla</string>
+</resources>
