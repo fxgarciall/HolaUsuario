@@ -13,6 +13,7 @@ public class FrmSaludo extends Activity {
         setContentView(R.layout.activity_saludo);
        
     	//Localizar los Controles
+		//Modificacion al Saludo
     	TextView txtSaludo = (TextView)findViewById(R.id.TxtSaludo);
     	
     	//Recuperar la info pasada en el Intent
